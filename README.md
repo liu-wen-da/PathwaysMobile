@@ -2,9 +2,6 @@
 
 ## Project Summary    
 
-**SCALE *Pathways* Mobile** connects students to universities by providing them with dynamically updating course schedules, insights into degrees and courses, and more.  
-     
-The kanban board of the project can be viewed here: https://trello.com/invite/b/8ixiBzEs/ATTI64bb4d9499fb5ee2679eaea080e5e3c9CCCF4CC1/pathways-mobile-team
 
 ### Additional information about the project  
 
